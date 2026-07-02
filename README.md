@@ -10,7 +10,7 @@
 
 # 👋 Hey, I'm Ernsci
 
-> *"Building tools. Breaking assumptions."*
+> *"I break and I fix"*
 
 ---
 
@@ -18,7 +18,7 @@
 
 ```yaml
 name: Ernsci
-located_in: Unknown
+located_in: Japan
 hobbies:
   - Penetration Testing
   - OSINT Investigations
