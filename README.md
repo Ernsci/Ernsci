@@ -94,17 +94,6 @@ currently_learning:
   <img src="https://img.shields.io/badge/Discord_Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
----
-
-## 🏆 Badges & Achievements
-
-<p align="center">
-  <a href="https://tryhackme.com/p/Ernsci">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Ernsci.png" alt="TryHackMe"/>
-  </a>
-</p>
-
----
 
 ## 📊 GitHub Stats
 
