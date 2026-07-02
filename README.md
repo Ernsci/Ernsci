@@ -19,7 +19,6 @@
 ```yaml
 name: Ernsci
 located_in: Unknown
-job: Security Researcher / Developer
 hobbies:
   - Penetration Testing
   - OSINT Investigations
